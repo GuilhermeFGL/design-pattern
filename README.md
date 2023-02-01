@@ -4,7 +4,7 @@ Guide to Design Patterns in Java
  
 
 ### CREATIONAL
- - Factory Method
+- Factory Method
 - Abstract Factory
 - Builder
 - Prototype
