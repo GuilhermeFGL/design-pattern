@@ -8,7 +8,7 @@ Guide to Design Patterns in Java
 - Abstract Factory
 - Builder
 - Prototype
-- Singleton
+- Instance
 
 ### Structural patterns
 - Adapter
