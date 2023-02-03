@@ -4,7 +4,7 @@ import interfaces.Button;
 import interfaces.Checkbox;
 import interfaces.Factory;
 
-public class App {
+public class AbstractFactory {
 
     public static class Application {
         private final Button button;
@@ -29,11 +29,11 @@ public class App {
         } else {
             factory = new WindowsFactory();
         }
-        return new App.Application(factory);
+        return new AbstractFactory.Application(factory);
     }
 
     public static void main(String[] args) {
-        Application app = App.configureApplication();
+        Application app = AbstractFactory.configureApplication();
         app.paint();
     }
 }

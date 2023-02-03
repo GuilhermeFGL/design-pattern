@@ -1,6 +1,6 @@
 package interfaces;
 
-public interface Checkbox {
+public interfaces Checkbox {
 
     void paint();
 }

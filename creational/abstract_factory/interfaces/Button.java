@@ -1,6 +1,6 @@
 package interfaces;
 
-public interface Button {
+public interfaces Button {
 
     void paint();
 }

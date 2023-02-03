@@ -1,6 +1,6 @@
 package interfaces;
 
-public interface Factory {
+public interfaces Factory {
 
     Button createButton();
     Checkbox createCheckbox();
