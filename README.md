@@ -35,3 +35,4 @@ Guide to Design Patterns in Java
 
  - Design Patterns GoF
  - [Refactoring Guru](https://refactoring.guru/)
+ - [Baeldung](https://www.baeldung.com/)
