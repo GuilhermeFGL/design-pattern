@@ -1,6 +1,7 @@
 import java.awt.*;
 
 public class TreeType {
+
     private final String NAME;
     private final Color COLOR;
     private final String OTHER_TREE_DATA;
