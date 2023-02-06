@@ -1,3 +1,5 @@
+package implementations;
+
 import java.awt.*;
 
 public class TreeType {

@@ -1,3 +1,7 @@
+import implementations.Tree;
+import implementations.TreeFactory;
+import implementations.TreeType;
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;

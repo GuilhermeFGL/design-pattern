@@ -1,3 +1,6 @@
+import implementations.RoundPeg;
+import implementations.SquarePeg;
+
 /**
  * Adapter allows fitting square pegs into round holes.
  */

@@ -1,3 +1,7 @@
+import implementations.RoundHole;
+import implementations.RoundPeg;
+import implementations.SquarePeg;
+
 /**
  * Somewhere in client code...
  */
